@@ -1,9 +1,10 @@
-Title: Who are we?
+Title: Team
 Category: test
 
-* David Van Duzer: Executive Director / Programmer
-* Andrew Livingston: Research Director / Mathematician
-* James Dibble: Mathematics Director / Professional Gambler
-* Lee Granas: Advisor / Theater Director
+* [David Van Duzer](https://twitter.com/dvanduzer): Executive Director / Programmer
+* [Andrew Livingston](https://twitter.com/provinghuman): Research Director / Mathematician
+* [James Dibble](http://math.rutgers.edu/~jdibble/): Mathematics Director / Professional Gambler
+* [Lee Granas](https://plus.google.com/101148274403552015855/about): Advisor / Theater Director
 * Lori Goldman: Advisor / Organizational Development
-* Jeremie Miller: Advisor / Software Engineering
+* [Jeremie Miller](http://telehash.org): Advisor / Software Engineering
+* [Kevin Sahr](http://discreteglobalgrids.org): Advisor / Geospatial Engineering
