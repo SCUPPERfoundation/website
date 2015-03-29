@@ -1,5 +1,4 @@
 Title: Team
-Category: test
 
 * [David Van Duzer](https://twitter.com/dvanduzer): Executive Director / Programmer
 * [Andrew Livingston](https://twitter.com/provinghuman): Research Director / Mathematician

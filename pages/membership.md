@@ -1,5 +1,4 @@
-Title: Advantages of Membership
-Category: test
+Title: Membership
 
 Some of the many benefits of becoming a member and supporting the SCUPPER Foundation:
 
