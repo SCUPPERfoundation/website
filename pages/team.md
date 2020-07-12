@@ -7,3 +7,4 @@ Title: Team
 * Lori Goldman: Advisor / Organizational Development
 * [Jeremie Miller](http://telehash.org): Advisor / Software Engineering
 * [Kevin Sahr](http://discreteglobalgrids.org): Advisor / Geospatial Engineering
+* Talia Devanadero: Apprentice / Lepidopteromancer
